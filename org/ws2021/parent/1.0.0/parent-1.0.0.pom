@@ -41,6 +41,5 @@
         <module>data</module>
         <module>domain</module>
         <module>util</module>
-        <module>control-panel</module>
     </modules>
 </project>
